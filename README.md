@@ -1,2 +1,2 @@
-# shopin.github.io
+# template-shop-java
 web_shop_online
